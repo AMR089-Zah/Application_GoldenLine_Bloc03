@@ -1,0 +1,178 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 1388.400278270494,
+            "y": 210.20840813118167
+          },
+          "nodeIndex": "public Carte_Fidelite",
+          "nodeLineageTag": "a60c4d67-2389-4aaf-957e-f9a766c05d82",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 10.020233738581844,
+            "y": -5.5635601150206639
+          },
+          "nodeIndex": "public Categorie",
+          "nodeLineageTag": "42e9f34d-d667-43c9-bdda-6a03441e0fb0",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 486.4078552711905
+          },
+          "nodeIndex": "public Categorie_Transaction",
+          "nodeLineageTag": "a34dc634-3b55-488e-a721-380e457ecbd1",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1672.400278270494,
+            "y": 198.20840813118167
+          },
+          "nodeIndex": "public Collecte",
+          "nodeLineageTag": "86f73e2a-5b6e-41c8-b40f-5e49b5ae7f33",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1956.400278270494,
+            "y": 162.20840813118167
+          },
+          "nodeIndex": "public Données_anonymisées_client",
+          "nodeLineageTag": "8d0203b1-a967-4e63-8971-7bf5088d1b03",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2240.4002782704938,
+            "y": 222.20840813118167
+          },
+          "nodeIndex": "public Magasins",
+          "nodeLineageTag": "c1b65249-1b3f-4a22-92a4-b3fdec55d7ac",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2524.4002782704938,
+            "y": 198.20840813118167
+          },
+          "nodeIndex": "public Produit",
+          "nodeLineageTag": "d6b7d3a3-cef0-4ecb-b19e-05554f243f14",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1114.3649628333562,
+            "y": -10
+          },
+          "nodeIndex": "public Role",
+          "nodeLineageTag": "5327296f-4521-4327-83d1-d815515038fb",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 299.93073443450027,
+            "y": 182.82763313105352
+          },
+          "nodeIndex": "public Transaction",
+          "nodeLineageTag": "1aa60519-1b92-4fe0-9694-5f86f0249542",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 658.18781954264944,
+            "y": 5.1751340010305356
+          },
+          "nodeIndex": "public User",
+          "nodeLineageTag": "1bc0285d-6819-4b1a-a338-93dc4ba140af",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1037.6222265401982,
+            "y": 460.58217693562017
+          },
+          "nodeIndex": "public User_Role",
+          "nodeLineageTag": "b7872efc-0747-4eb6-841d-bca82659b9d4",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 635.57860157617051,
+            "y": 509.65930695805332
+          },
+          "nodeIndex": "public User_Transaction",
+          "nodeLineageTag": "e6165504-e1a5-4838-b2f6-ff3b194c68df",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Toutes les tables",
+      "zoomValue": 65.1227777641959,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Toutes les tables",
+  "defaultDiagram": "Toutes les tables"
+}
